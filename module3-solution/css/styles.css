@@ -34,7 +34,7 @@ section {
 	border:	1px solid black;
 	background-color: #7fffd4;
 	margin: 2%;
-	height: 200px;
+	height: auto;
 	color: crimson;
 	position: relative;
 	overflow: auto;
