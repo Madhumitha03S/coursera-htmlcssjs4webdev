@@ -6,8 +6,8 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
-	color: #0000ff;
+	font-style: bold;
+	color: #00ced1;
 }
 
 body {
@@ -32,11 +32,16 @@ p {
 section {
 	border:	1px solid black;
 	background-color: #00ff99;
-	width: 100%;
+	margin: 10%;
 	height: auto;
-	color: black;
+	color: crimson;
 	position: relative;
 	overflow: auto;
+	text-align: center;
+	font-style: oblique;
+	font-weight: lighter;
+	font-variant: small-caps;
+	font-size: larger;
 }
 
 #chicken {
@@ -44,7 +49,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-  font-weight: bold;
+  	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
@@ -70,12 +75,12 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-  font-weight: bold;
+  	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #6b8e23;
-  padding: 5px;
+  	padding: 5px;
 }
 
 #chicken-div {
@@ -101,8 +106,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #7fffd4;
-  color: #0000ff;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
